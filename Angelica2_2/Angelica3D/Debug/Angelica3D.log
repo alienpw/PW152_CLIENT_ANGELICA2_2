@@ -1,0 +1,249 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  A3DWorldCDS.cpp
+  A3DWorld.cpp
+  A3DWireCollector.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(581,12): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(582,12): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(583,12): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(627,11): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(628,11): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(709,23): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(712,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(718,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(719,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(733,23): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(736,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(742,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(743,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(834,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DWireCollector.cpp(835,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  A3DWaterWave2.cpp
+  A3DWaterWave.cpp
+  A3DWaterFFT.cpp
+  A3DWaterArea2.cpp
+  A3DWaterArea.cpp
+  A3DVSSRouteLoader.cpp
+  A3DVolumeTexture.cpp
+  A3DViewport.cpp
+  A3DVertexShader.cpp
+  A3DVertexCollector.cpp
+  A3DVectorComp.cpp
+  A3DTrackMan.cpp
+  A3DTrackData.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DTrackData.cpp(42,12): warning C4244: '=': conversão de 'double' para 'FLOAT', possível perda de dados
+  A3DTrace.cpp
+  A3DTextureMan.cpp
+  A3DTexture.cpp
+  A3DTexCoordCtrl.cpp
+  Gerando Código...
+  Compilando...
+  A3DTerrainWaterSimpleAlphaRender.cpp
+  A3DTerrainWaterRender.cpp
+  A3DTerrainWaterFFT.cpp
+  A3DTerrainWater2SimpleRender.cpp
+  A3DTerrainWater2NormalRender.cpp
+  A3DTerrainWater2.cpp
+  A3DTerrainWater.cpp
+  A3DTerrainOutline.cpp
+  A3DTerrainMark.cpp
+  A3DTerrain2Trace.cpp
+  A3DTerrain2RenderHLSL.cpp
+  A3DTerrain2RenderAux.cpp
+  A3DTerrain2Render.cpp
+  A3DTerrain2LOD.cpp
+  A3DTerrain2LoaderB.cpp
+  A3DTerrain2LoaderA.cpp
+  A3DTerrain2Loader.cpp
+  A3DTerrain2Env.cpp
+  A3DTerrain2CullHC.cpp
+  A3DTerrain2Blk.cpp
+  Gerando Código...
+  Compilando...
+  A3DTerrain2.cpp
+  A3DTerrain.cpp
+  A3DSurfaceMan.cpp
+  A3DSurface.cpp
+  A3DSuppleMesh.cpp
+  A3DSuperSpray.cpp
+  A3DSuperDecal.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DSuperDecal.cpp(463,26): warning C4477: 'sprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+  A3DStringSet.cpp
+  A3DString.cpp
+  A3DStream.cpp
+  A3DStars.cpp
+  A3DSnow.cpp
+  A3DSkySphere.cpp
+  A3DSkyGradient.cpp
+  A3DSkyBox.cpp
+  A3DSky.cpp
+  A3DSkinRenderWithEffect.cpp
+  A3DSkinRender.cpp
+  A3DSkinModelMan.cpp
+  A3DSkinModelAux.cpp
+  Gerando Código...
+  Compilando...
+  A3DSkinModelAct.cpp
+  A3DSkinModel.cpp
+  A3DSkinMeshMan.cpp
+  A3DSkinMesh.cpp
+  A3DSkinMan.cpp
+  A3DSkin.cpp
+  A3DSkeleton.cpp
+  A3DSimpleQuad.cpp
+  A3DShadowMap.cpp
+  A3DShaderMan.cpp
+  A3DShader.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DShader.cpp(995,5): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DShader.cpp(1840,12): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  A3DSceneHull.cpp
+  A3DScene.cpp
+  A3DRouteVSS.cpp
+  A3DRigidMesh.cpp
+  A3DRenderTargetMan.cpp
+  A3DRenderTarget.cpp
+  A3DRain.cpp
+  A3DQuaternion.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DQuaternion.cpp(225,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  A3DPortal.cpp
+  Gerando Código...
+  Compilando...
+  A3DPlants.cpp
+  A3DPixelShader.cpp
+  A3DPI.cpp
+  A3DPerlinNormalMap.cpp
+  A3DParticleSystem.cpp
+  A3DPArray.cpp
+  A3DOrthoCamera.cpp
+  A3DOccQuery.cpp
+  A3DOcclusionManSW.cpp
+  A3DOcclusionManHW.cpp
+  A3DMuscleOrgan.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DMuscleOrgan.cpp(184,13): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  A3DMuscleMesh.cpp
+  A3DMultiThreadRender.cpp
+  A3DMoxMan.cpp
+  A3DMorphSkinMesh.cpp
+  A3DMorphRigidMesh.cpp
+  A3DMorphMesh.cpp
+  A3DModelMan.cpp
+  A3DModelCollector.cpp
+  A3DModel.cpp
+  Gerando Código...
+  Compilando...
+  A3DMirrorRender.cpp
+  A3DMeshSorter.cpp
+  A3DMeshMan.cpp
+  A3DMeshCollector.cpp
+  A3DMeshBase.cpp
+  A3DMesh.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DMesh.cpp(1028,26): warning C4477: 'sscanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'FLOAT *'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DMesh.cpp(1031,26): warning C4477: 'sscanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'FLOAT *'
+  A3DMatrix.cpp
+  A3DMathUtility.cpp
+  A3DMaterial.cpp
+  A3DLitModelSharedDataMan.cpp
+  A3DLitModelSharedData.cpp
+  A3DLitModelRender.cpp
+  A3DLitModel.cpp
+  A3DLightning.cpp
+  A3DLightMan.cpp
+  A3DLightingEngine.cpp
+  A3DLight.cpp
+  A3DLensFlare.cpp
+  A3DLamp.cpp
+  A3DKDTree.cpp
+  Gerando Código...
+  Compilando...
+  A3DJoint.cpp
+  A3DImgModelMan.cpp
+  A3DImgModel.cpp
+  A3DIKSolver.cpp
+  A3DIKData.cpp
+  A3DIBLScene.cpp
+  A3DIBLMesh.cpp
+  A3DHorizonCull.cpp
+  A3DHLSLUtil.cpp
+  A3DHLSLDataSrc.cpp
+  A3DHLSL.cpp
+  A3DHermiteSpline.cpp
+  A3DGraphicsFX.cpp
+  A3DGFXMan.cpp
+  A3DGFXCollector.cpp
+  A3DGeometry.cpp
+  A3DGDI.cpp
+  A3DFuncs.cpp
+  A3DFrustum.cpp
+  A3DFrame.cpp
+  Gerando Código...
+  Compilando...
+  A3DFontMan.cpp
+  A3DFont.cpp
+  A3DFlatCollector.cpp
+  A3DFlash.cpp
+  A3DESPMove.cpp
+  A3DESP.cpp
+  A3DEnvironment.cpp
+  A3DEngine.cpp
+  A3DEffect.cpp
+  A3DDeviceRSCache.cpp
+  A3DDeviceCaps.cpp
+  A3DDevice.cpp
+  A3DDecal.cpp
+  A3DDDSFile.cpp
+  A3DCursor.cpp
+  A3DCubeTexture.cpp
+  A3DCubeRenderTarget.cpp
+  A3DCoverageMap.cpp
+  A3DCoordinate.cpp
+  A3DController.cpp
+  Gerando Código...
+  Compilando...
+  A3DControl.cpp
+  A3DConfig.cpp
+  A3DCommandBuffer.cpp
+  A3DCollision.cpp
+  A3DClothMesh.cpp
+  A3DCBReleaseResRecorder.cpp
+  A3DCBRecorderBase.cpp
+  A3DCBRecorder.cpp
+  a3dcbplayer.cpp
+  A3DCameraBase.cpp
+  A3DCamera.cpp
+  A3DBSP.cpp
+  A3DBoneController.cpp
+  A3DBone.cpp
+  A3DBillBoard.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Source\A3DBillBoard.cpp(624,25): warning C4477: 'sprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+  A3DBezierSegment.cpp
+  A3DBezierPoint.cpp
+  A3DAdditionalView.cpp
+  A3DAbsTrackMaker.cpp
+  A2DSpriteTextures.cpp
+  Gerando Código...
+  Compilando...
+  A2DSpriteTexMan.cpp
+  A2DSpriteItem.cpp
+  A2DSpriteBuffer.cpp
+  A2DSprite.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Debug\Angelica3D.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Debug\Angelica3D_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(Angelica3D) não corresponde ao valor de propriedade OutputFile de Library (Angelica3D_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+Async_d.lib(asyncflt.obj) : warning LNK4006: "private: int __thiscall CAsyncFilter::ReadTheFile(wchar_t const *)" (?ReadTheFile@CAsyncFilter@@AAEHPB_W@Z) já definido no AngelicaMedia_d.lib(AMVideoClip.obj); segunda definição ignorada
+d3dx9.lib(d3dx9_43.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR já definido no d3d9.lib(d3d9.dll); segunda definição ignorada
+dsound.lib(DSOUND.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR já definido no d3d9.lib(d3d9.dll); segunda definição ignorada
+dinput8.lib(DINPUT8.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR já definido no d3d9.lib(d3d9.dll); segunda definição ignorada
+winmm.lib(WINMM.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR já definido no d3d9.lib(d3d9.dll); segunda definição ignorada
+shlwapi.lib(SHLWAPI.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR já definido no d3d9.lib(d3d9.dll); segunda definição ignorada
+dbghelp.lib(dbghelp.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR já definido no d3d9.lib(d3d9.dll); segunda definição ignorada
+  Angelica3D.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Debug\Angelica3D.lib
+  Executando a Etapa de Compilação Personalizada
+  copy libary into sdk folder
+  0 arquivo(s) copiado(s)
+  Arquivo n?o encontrado  - Angelica3D.lib
+  copy headers into sdk folder
+  0 arquivo(s) copiado(s)
+  copy libary into sdk folder
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Angelica3D\Debug\Angelica3D_d.lib
+  1 arquivo(s) copiado(s)
+  copy headers into sdk folder
+  0 arquivo(s) copiado(s)

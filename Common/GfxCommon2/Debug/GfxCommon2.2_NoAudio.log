@@ -1,0 +1,171 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  StdAfx.cpp
+cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  TrailList.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\TrailList.cpp(234,31): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned short', possível perda de dados
+  (compilando o arquivo fonte '/TrailList.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\TrailList.cpp(235,31): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned short', possível perda de dados
+  (compilando o arquivo fonte '/TrailList.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\TrailList.cpp(1106,37): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned short', possível perda de dados
+  (compilando o arquivo fonte '/TrailList.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\TrailList.cpp(1107,37): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned short', possível perda de dados
+  (compilando o arquivo fonte '/TrailList.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\TrailList.cpp(1108,40): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned short', possível perda de dados
+  (compilando o arquivo fonte '/TrailList.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\TrailList.cpp(1109,40): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned short', possível perda de dados
+  (compilando o arquivo fonte '/TrailList.cpp')
+  
+  RandStringContainer.cpp
+  GfxRequestQueue.cpp
+  GfxEditorUtil.cpp
+  FX_BINDING.CPP
+  EC_ModelShell.cpp
+  EC_ModelPhys.cpp
+  EC_ModelMan.cpp
+  EC_ModelLuaApi.cpp
+  EC_ModelLua.cpp
+  EC_ModelHook.cpp
+  EC_ModelBlur.cpp
+  EC_Model.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(1459,17): warning C4477: 'sprintf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'CECModel *'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(1459,17): warning C4477: 'sprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 3 tem o tipo 'const AString'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(1459,17): warning C4477: 'sprintf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 4 tem o tipo 'CECModel *'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(1459,17): warning C4477: 'sprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 6 tem o tipo 'const AString'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(1492,17): warning C4477: 'sprintf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'CECModel *'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(1492,17): warning C4477: 'sprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 3 tem o tipo 'const AString'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(1492,17): warning C4477: 'sprintf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 4 tem o tipo 'CECModel *'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(1492,17): warning C4477: 'sprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 6 tem o tipo 'const AString'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(4215,1): warning C4102: 'Error': rótulo não referenciado
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(4379,1): warning C4102: 'Error': rótulo não referenciado
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(4487,1): warning C4102: 'Error': rótulo não referenciado
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(4857,16): warning C4477: 'sprintf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'CECModel *'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(4857,16): warning C4477: 'sprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 3 tem o tipo 'const AString'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(4857,16): warning C4477: 'sprintf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 4 tem o tipo 'CECModel *'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(4857,16): warning C4477: 'sprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 6 tem o tipo 'const AString'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(4857,16): warning C4477: 'sprintf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 7 tem o tipo 'CECModel *'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\EC_Model.cpp(4857,16): warning C4477: 'sprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 9 tem o tipo 'const AString'
+  (compilando o arquivo fonte '/EC_Model.cpp')
+  
+  EC_CameraKeyPoint.cpp
+  CriticalSectionWrapper.cpp
+  base64.cpp
+  A3DTrailEx.cpp
+  A3DTrail.cpp
+  A3DSkinPhysSyncData.cpp
+  A3DSkinPhysSync.cpp
+  Gerando Código...
+  Compilando...
+  A3DSkillGfxEvent.cpp
+  A3DSkillGfxComposer.cpp
+  A3DSkeletonEmitter.cpp
+  A3DRibbon.cpp
+  A3DPointEmitter.cpp
+  A3DPhysRBCreator.cpp
+  A3DPhysPointEmitter.cpp
+  A3DPhysFluidSyncData.cpp
+  A3DPhysFluidEmitter.cpp
+  A3DPhysEmitter.cpp
+  A3DPhysElement.cpp
+  A3DPhysActor.cpp
+  A3DParticleSystemEx.cpp
+  A3DParticleEmitter.cpp
+  A3DParaboloid.cpp
+  A3DMultiPlaneEmitter.cpp
+  A3DModelSoftKeyFrame.cpp
+  A3DModelPhysSyncData.cpp
+  A3DModelPhysSync.cpp
+  A3DModelPhysics.cpp
+  Gerando Código...
+  Compilando...
+  A3DLtnTrail.cpp
+  A3DLtnBolt.cpp
+  A3DHLPixelShader.cpp
+  A3DGridDecalEx.cpp
+  A3DGFXTexMan.cpp
+  A3DGFXSurfaceRender.cpp
+  A3DGFXStreamMan.cpp
+  A3DGFXSoundImp.cpp
+  A3DGFXSound.cpp
+  A3DGFXShakeCamera.cpp
+  A3DGFXRing.cpp
+  A3DGFXRenderSlot.cpp
+  A3DGFXPIFuncs.cpp
+  A3DGfxPhysDataMan.cpp
+  A3DGFXModelProxy.cpp
+  A3DGFXModelMan.cpp
+  A3DGFXModel.cpp
+  A3DGFXLightningEx.cpp
+  A3DGFXLightning.cpp
+  A3DGFXLight.cpp
+  Gerando Código...
+  Compilando...
+  A3DGFXKeyPoint.cpp
+  A3DGFXInterface.cpp
+  A3DGFXGridAnimation.cpp
+  A3DGFXFuncs.cpp
+  A3DGFXFloatValueTrans.cpp
+  A3DGFXExMan.cpp
+  A3DGFXEx.cpp
+  A3DGFXElement.cpp
+  A3DGFXEditorInterface.cpp
+  A3DGFXECModel.cpp
+  A3DGFXECMLoader.cpp
+  A3DGFXContainer.cpp
+  A3DGFXAnimable.cpp
+  A3DEllipsoidEmitter.cpp
+  A3DDecalEx.cpp
+  A3DCylinderEmitter.cpp
+  A3DCurveEmitter.cpp
+  A3DCombinedAction.cpp
+  A3DCombActMan.cpp
+  A3DCombActDynData.cpp
+  Gerando Código...
+  Compilando...
+  A3DBoxEmitter.cpp
+  A3DAreaEmitter.cpp
+  A3DAnimationTrack.cpp
+  A3DAnimatable_PSConst.cpp
+  A3DAnimatable_ApplyNone.cpp
+  A3DAnimatable.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\Debug\GfxCommon_NoAudio.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\Debug\GfxCommon_na_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(GfxCommon_NoAudio) não corresponde ao valor de propriedade OutputFile de Library (GfxCommon_na_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  GfxCommon2.2_NoAudio.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\GfxCommon2\Debug\GfxCommon_NoAudio.lib
+  3 arquivo(s) copiado(s)

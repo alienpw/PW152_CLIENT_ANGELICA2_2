@@ -1,0 +1,33 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2153,5): warning : The referenced project '..\3rdSDK\mpg123lib\mpg123lib.vcxproj' does not exist.
+cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  FFT.cpp
+  AMWaveFile.cpp
+  AMVideoEngine.cpp
+  AMVideoClip.cpp
+  STREAMS.H included TWICE
+  AMSurfaceRenderer.cpp
+  AMSoundStream.cpp
+  AMSoundEngine.cpp
+  AMSoundDevice.cpp
+  AMSoundBufferMan.cpp
+  AMSoundBuffer.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaMedia\Source\AMSoundBuffer.cpp(819,18): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  AMPI.cpp
+  AMOggFile.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.h(53,18): warning C4244: 'argumento': conversão de 'ogg_int64_t' para 'long', possível perda de dados
+  (compilando o arquivo fonte 'Source/AMOggFile.cpp')
+  
+  AMMp3File.cpp
+  AMEngine.cpp
+  AMConfig.cpp
+  AM3DSoundDevice.cpp
+  AM3DSoundBuffer.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaMedia\Debug\AngelicaMedia.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaMedia\Debug\AngelicaMedia_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(AngelicaMedia) não corresponde ao valor de propriedade OutputFile de Library (AngelicaMedia_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  AngelicaMedia.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaMedia\Debug\AngelicaMedia.lib
+  copy libary into sdk folder
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaMedia\Debug\AngelicaMedia_d.lib
+  1 arquivo(s) copiado(s)
+  copy headers into sdk folder
+  0 arquivo(s) copiado(s)

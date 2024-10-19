@@ -1,0 +1,282 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  PfConstant.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'PfConstant.cpp')
+  
+  PfClu.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'PfClu.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'PfClu.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'PfClu.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'PfClu.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'PfClu.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\PfClu.cpp(222,16): warning C4018: '<': incompatibilidade de signed/unsigned
+  OptimizePath.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'OptimizePath.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'OptimizePath.cpp')
+  
+  MultiCluGraph.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MultiCluGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MultiCluGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'MultiCluGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'MultiCluGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'MultiCluGraph.cpp')
+  
+  MoveMap.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MoveMap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MoveMap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'MoveMap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'MoveMap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'MoveMap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(87,2): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(212,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(228,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,44): warning C4244: 'argumento': conversão de 'const T' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         and
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:             T=float
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,35): warning C4244: 'argumento': conversão de 'const T' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         and
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:             T=float
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveMap.cpp(398,24): warning C4018: '>=': incompatibilidade de signed/unsigned
+  MoveAgent.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MoveAgent.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MoveAgent.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,50): warning C4244: 'argumento': conversão de 'T' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,50): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,50): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,50): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,50): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,50): warning C4244:         and
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,50): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,50): warning C4244:             T=float
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,50): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,26): warning C4244: 'argumento': conversão de 'T' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,26): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,26): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,26): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,26): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,26): warning C4244:         and
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,26): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,26): warning C4244:             T=float
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(576,26): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,41): warning C4244: 'argumento': conversão de 'T' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,41): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,41): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,41): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,41): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,41): warning C4244:         and
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,41): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,41): warning C4244:             T=float
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,41): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,29): warning C4244: 'argumento': conversão de 'T' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,29): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,29): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,29): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,29): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,29): warning C4244:         and
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,29): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,29): warning C4244:             T=float
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MoveAgent.cpp(577,29): warning C4244:         ]
+  MAStar.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MAStar.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'MAStar.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'MAStar.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MAStar.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MAStar.cpp(113,43): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  MapNode.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'MapNode.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'MapNode.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MapNode.cpp')
+  
+  MapGraph.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MapGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'MapGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'MapGraph.cpp')
+  
+  LayerMap.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'LayerMap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'LayerMap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'LayerMap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'LayerMap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'LayerMap.cpp')
+  
+  Island.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Island.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Island.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Island.cpp')
+  
+  Graph.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Graph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Graph.cpp')
+  
+  GHeap.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'GHeap.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'GHeap.cpp')
+  
+  GAStar.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'GAStar.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'GAStar.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'GAStar.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\GAStar.cpp(280,47): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  ClusterAbstraction.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'ClusterAbstraction.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'ClusterAbstraction.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'ClusterAbstraction.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'ClusterAbstraction.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'ClusterAbstraction.cpp')
+  
+  CluGraphConnector.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'CluGraphConnector.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'CluGraphConnector.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'CluGraphConnector.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'CluGraphConnector.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'CluGraphConnector.cpp')
+  
+  CluGraph.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'CluGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'CluGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'CluGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'CluGraph.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'CluGraph.cpp')
+  
+  CluCommon.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'CluCommon.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Graph.h(92,42): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'CluCommon.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(94,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'CluCommon.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\MapNode.h(125,3): warning C4018: '<': incompatibilidade de signed/unsigned
+  (compilando o arquivo fonte 'CluCommon.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\CluCommon.cpp(243,2): warning C4018: '<': incompatibilidade de signed/unsigned
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Debug\AutoMoveImp.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Debug\AutoMoveImp_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(AutoMoveImp) não corresponde ao valor de propriedade OutputFile de Library (AutoMoveImp_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  AutoMoveImp.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AutoMoveImp\Debug\AutoMoveImp.lib
+  1 arquivo(s) copiado(s)
+  1 arquivo(s) copiado(s)
+  1 arquivo(s) copiado(s)
+  1 arquivo(s) copiado(s)
+  1 arquivo(s) copiado(s)

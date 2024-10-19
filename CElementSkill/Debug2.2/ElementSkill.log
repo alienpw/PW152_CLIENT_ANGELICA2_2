@@ -1,0 +1,27 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  stubs9.cpp
+  stubs8.cpp
+  stubs7.cpp
+  stubs6.cpp
+  stubs5.cpp
+  stubs4.cpp
+  stubs3.cpp
+  stubs2.cpp
+  stubs12.cpp
+  stubs11.cpp
+  stubs10.cpp
+  stubs1.cpp
+  StdAfx.cpp
+  skillwrapper.cpp
+  skill.cpp
+  gnstring.cpp
+  ElementSkill.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\CElementSkill\Debug2.2\ElementSkill.dll) não corresponde ao valor de propriedade OutputFile de Linker (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\CElementSkill\Debug2.2\ElementSkill_d.dll). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1394,5): warning MSB8012: TargetName(ElementSkill) não corresponde ao valor de propriedade OutputFile de Linker (ElementSkill_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Link.OutputFile).
+ElementSkill.obj : warning LNK4075: ignorando '/EDITANDCONTINUE' devido a especificação '/SAFESEH'
+     Criando biblioteca .\Debug2.2\ElementSkill_d.lib e objeto .\Debug2.2\ElementSkill_d.exp
+  ElementSkill.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\CElementSkill\Debug2.2\ElementSkill.dll
+  1 arquivo(s) copiado(s)
+  1 arquivo(s) copiado(s)
+  1 arquivo(s) copiado(s)

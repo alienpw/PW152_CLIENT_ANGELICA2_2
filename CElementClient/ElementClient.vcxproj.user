@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommand>D:\Perfect World\Perfect World 1.5.2 BR\element\elementclient_d.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>startbypatcher</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>D:\Perfect World\Perfect World 1.5.2 BR\element\</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

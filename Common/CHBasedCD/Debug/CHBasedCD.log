@@ -1,0 +1,27 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  RightPrism.cpp
+  Patch.cpp
+  Matrix.cpp
+  LEquations.cpp
+  HalfSpace.cpp
+  GiftWrap.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\CHBasedCD\GiftWrap.cpp(842,17): warning C4477: 'fscanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'int'
+  Face.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\CHBasedCD\Face.cpp(266,15): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\CHBasedCD\Face.cpp(276,15): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  EdgeStack.cpp
+  ConvexPolytope.cpp
+  ConvexHullData.cpp
+  ConvexHullAlgorithm.cpp
+  CombGenerator.cpp
+  CDWithCH.cpp
+  aabbcd.cpp
+  2DObstruct.cpp
+  2DGiftWrap.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\CHBasedCD\Debug\CHBasedCD.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\CHBasedCD\Debug\CHBasedCD_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(CHBasedCD) não corresponde ao valor de propriedade OutputFile de Library (CHBasedCD_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  CHBasedCD.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\CHBasedCD\Debug\CHBasedCD.lib
+  copy files to the lib
+  1 arquivo(s) copiado(s)
+  16 arquivo(s) copiado(s)

@@ -1,0 +1,54 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  AWScriptFile.cpp
+  AWIniFile.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AWIniFile.cpp(691,17): warning C4477: 'fwprintf': a cadeia de formato '%s' requer um argumento do tipo 'wchar_t *', mas um argumento variadic 1 tem o tipo 'AWString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AWIniFile.cpp(697,16): warning C4477: 'fwprintf': a cadeia de formato '%s' requer um argumento do tipo 'wchar_t *', mas um argumento variadic 1 tem o tipo 'AWString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AWIniFile.cpp(705,17): warning C4477: 'fwprintf': a cadeia de formato '%s' requer um argumento do tipo 'wchar_t *', mas um argumento variadic 1 tem o tipo 'AWString'
+  ATextTabFile.cpp
+  AScriptFile.cpp
+  AMemFile.cpp
+  AIniFile.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AIniFile.cpp(677,16): warning C4477: 'fprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AIniFile.cpp(683,15): warning C4477: 'fprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AIniFile.cpp(691,16): warning C4477: 'fprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+  AFileUnicode.cpp
+  AFilePackMan.cpp
+  AFilePackGame.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackGame.cpp(107,2): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackGame.cpp(512,16): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackGame.cpp(514,13): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackGame.cpp(534,16): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackGame.cpp(536,13): warning C4018: '<': incompatibilidade de signed/unsigned
+  AFilePackBase.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackBase.cpp(220,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackBase.cpp(331,25): warning C4244: 'inicializando': conversão de '__int64' para 'size_t', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackBase.cpp(345,20): warning C4244: 'argumento': conversão de '__int64' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackBase.cpp(413,20): warning C4244: 'argumento': conversão de '__int64' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackBase.cpp(415,27): warning C4244: 'argumento': conversão de '__int64' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackBase.cpp(421,19): warning C4244: 'argumento': conversão de '__int64' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackBase.cpp(452,24): warning C4244: 'argumento': conversão de '__int64' para 'long', possível perda de dados
+  AFilePackage.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(160,13): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(224,13): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(336,3): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(863,16): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(865,13): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(885,16): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(887,13): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(1282,2): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(1325,2): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Source\AFilePackage.cpp(1353,2): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  AFileImage.cpp
+  AFile.cpp
+  AFI.cpp
+  ADirImage.cpp
+  ADir.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Debug\AngelicaFile.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Debug\AngelicaFile_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(AngelicaFile) não corresponde ao valor de propriedade OutputFile de Library (AngelicaFile_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  AngelicaFile.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Debug\AngelicaFile.lib
+  copy libary into sdk folder
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaFile\Debug\AngelicaFile_d.lib
+  1 arquivo(s) copiado(s)
+  copy headers into sdk folder
+  0 arquivo(s) copiado(s)

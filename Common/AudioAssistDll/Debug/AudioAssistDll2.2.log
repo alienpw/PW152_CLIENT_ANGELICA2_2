@@ -1,0 +1,59 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  stdafx.cpp
+cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  ReverbSelector.cpp
+  EventSelector.cpp
+  DlgSelectReverb.cpp
+  DlgSelectEvent.cpp
+  AudioAssistDll.cpp
+  TreeCtrlEx.cpp
+  EventDisplay.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioAssistDll\resource.h(5,1): warning C4005: 'IDD_SELECT_EVENT': redefinição de macro
+  (compilando o arquivo fonte '/AudioEditor/EventDisplay.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEditor\resource.h(57,1):
+  consulte a definição anterior de 'IDD_SELECT_EVENT'
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioAssistDll\resource.h(6,1): warning C4005: 'IDC_TREE_EVENT': redefinição de macro
+  (compilando o arquivo fonte '/AudioEditor/EventDisplay.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEditor\resource.h(109,1):
+  consulte a definição anterior de 'IDC_TREE_EVENT'
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioAssistDll\resource.h(9,1): warning C4005: 'IDC_LIST_REVERB': redefinição de macro
+  (compilando o arquivo fonte '/AudioEditor/EventDisplay.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEditor\resource.h(62,1):
+  consulte a definição anterior de 'IDC_LIST_REVERB'
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioAssistDll\resource.h(17,1): warning C4005: 'IDI_ICON_EVENT': redefinição de macro
+  (compilando o arquivo fonte '/AudioEditor/EventDisplay.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEditor\resource.h(31,1):
+  consulte a definição anterior de 'IDI_ICON_EVENT'
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioAssistDll\resource.h(19,1): warning C4005: 'IDI_ICON_EVENT_GROUP': redefinição de macro
+  (compilando o arquivo fonte '/AudioEditor/EventDisplay.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEditor\resource.h(30,1):
+  consulte a definição anterior de 'IDI_ICON_EVENT_GROUP'
+  
+  DynSizeCtrl.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioAssistDll\Debug\AudioAssistDll2.2.dll) não corresponde ao valor de propriedade OutputFile de Linker (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\bin\Debug-Win32\Common\AudioAssistDll2.2_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1393,5): warning MSB8012: TargetExt(.dll) não corresponde ao valor de propriedade OutputFile de Linker (.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1394,5): warning MSB8012: TargetName(AudioAssistDll2.2) não corresponde ao valor de propriedade OutputFile de Linker (AudioAssistDll2.2_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Link.OutputFile).
+DynSizeCtrl.obj : warning LNK4075: ignorando '/EDITANDCONTINUE' devido a especificação '/SAFESEH'
+     Criando biblioteca E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioAssistDll\Debug\AudioAssistDll2.2.lib e objeto E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioAssistDll\Debug\AudioAssistDll2.2.exp
+angelica3d_d.lib(AScriptFile.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AScriptFile.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AFilePackMan.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AFilePackMan.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AFilePackGame.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AFilePackGame.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AFilePackBase.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AFilePackBase.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AFilePackage.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AFilePackage.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AFileImage.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AFileImage.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AFile.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AFile.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AFI.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AFI.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AWString.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AWString.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(ATime.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(ATime.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(ATempMemMan.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(ATempMemMan.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AString.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AString.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AMemory.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AMemory.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(ALog.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(ALog.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(ACounter.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(ACounter.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+angelica3d_d.lib(AAssist.obj) : warning LNK4099: PDB '' não foi encontrado 'angelica3d_d.lib(AAssist.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+  AudioAssistDll2.2.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioAssistDll\Debug\AudioAssistDll2.2.dll

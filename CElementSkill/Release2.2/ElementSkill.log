@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.props(24,5): warning MSB4211: a propriedade "MsvcAnalysisPluginPath" está sendo definida para um valor pela primeira vez, mas já foi consumida em "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (33,5)".
+     Criando biblioteca .\Release2.2\ElementSkill.lib e objeto .\Release2.2\ElementSkill.exp
+  ElementSkill.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\CElementSkill\Release2.2\ElementSkill.dll
+          1 arquivo(s) copiado(s).
+          1 arquivo(s) copiado(s).
+          1 arquivo(s) copiado(s).

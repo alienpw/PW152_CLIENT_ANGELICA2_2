@@ -1,0 +1,41 @@
+﻿  CriticalSession.cpp
+  FTDriverDLL.cpp
+  FTFont.cpp
+  FTGlyphCache.cpp
+  FTManager.cpp
+  MyFTCache.cpp
+  MyRaster.cpp
+  StdAfx.cpp
+  WTFont.cpp
+freetype_d.lib(ftcache.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftcache.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(ftbase.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftbase.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(ftglyph.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftglyph.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(ftsynth.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftsynth.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(ftinit.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftinit.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(ftsystem.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftsystem.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(ftbitmap.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftbitmap.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(autofit.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(autofit.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(truetype.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(truetype.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(type1.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(type1.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(cff.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(cff.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(type1cid.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(type1cid.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(pfr.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(pfr.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(type42.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(type42.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(winfnt.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(winfnt.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(pcf.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(pcf.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(bdf.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(bdf.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(psaux.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(psaux.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(psmodule.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(psmodule.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(pshinter.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(pshinter.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(sfnt.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(sfnt.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(smooth.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(smooth.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(raster.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(raster.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(sdf.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(sdf.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(svg.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(svg.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(ftgzip.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftgzip.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(ftlzw.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftlzw.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype_d.lib(ftdebug.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype_d.lib(ftdebug.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+     Criando biblioteca E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FTDriver\Debug\FTDriver_d.lib e objeto E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FTDriver\Debug\FTDriver_d.exp
+  FTDriver.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FTDriver\Debug\FTDriver_d.dll
+  1 arquivo(s) copiado(s)
+  1 arquivo(s) copiado(s)

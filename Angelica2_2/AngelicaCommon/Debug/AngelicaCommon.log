@@ -1,0 +1,37 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  base64.cpp
+  AWString.cpp
+  ATime.cpp
+  ATempMemMan.cpp
+  AString.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AString.cpp(582,2): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AString.cpp(599,2): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  ARandomGen.cpp
+  APerlinNoiseBase.cpp
+  APerlinNoise3D.cpp
+  APerlinNoise2D.cpp
+  APerlinNoise1D.cpp
+  AMemory.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AMemory.cpp(171,20): warning C4477: 'sprintf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'const DWORD'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AMemory.cpp(177,20): warning C4477: 'sprintf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'const DWORD'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AMemory.cpp(196,20): warning C4477: 'sprintf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'const DWORD'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AMemory.cpp(202,20): warning C4477: 'sprintf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'const DWORD'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AMemory.cpp(1143,26): warning C4477: 'fprintf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'const DWORD'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AMemory.cpp(1344,19): warning C4477: 'fprintf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'DWORD'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AMemory.cpp(2104,25): warning C4477: 'sprintf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'const DWORD'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AMemory.cpp(2123,25): warning C4477: 'sprintf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'const DWORD'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Source\AMemory.cpp(2142,25): warning C4477: 'sprintf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'const DWORD'
+  ALog.cpp
+  AList.cpp
+  AGPAPerfIntegration.cpp
+  ACounter.cpp
+  AAssist.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Debug\AngelicaCommon.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Debug\AngelicaCommon_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(AngelicaCommon) não corresponde ao valor de propriedade OutputFile de Library (AngelicaCommon_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  AngelicaCommon.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Debug\AngelicaCommon.lib
+  copy libary into sdk folder
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\AngelicaCommon\Debug\AngelicaCommon_d.lib
+  1 arquivo(s) copiado(s)
+  copy headers into sdk folder
+  0 arquivo(s) copiado(s)

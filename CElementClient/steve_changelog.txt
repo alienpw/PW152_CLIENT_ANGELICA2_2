@@ -1,0 +1,5 @@
+CECHostSkillModel::GetRootSkillSet - added ENABLE_SKILL
+CECHostGoblin::Init - added ENABLE_SKILL
+CECShortcutSet::LoadConfigData - added ENABLE_SKILL
+CECShowNewSkillHelper::OnModelChange - added ENABLE_SKILL
+#ifdef RESOURCE_BATTLE

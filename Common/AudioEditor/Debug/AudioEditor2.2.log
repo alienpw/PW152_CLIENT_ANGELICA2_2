@@ -1,0 +1,5 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  stdafx.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEditor\stdafx.h(53,10): error C1083: Não é possível abrir arquivo incluir: 'BCGCBProInc.h': No such file or directory
+  (compilando o arquivo fonte 'stdafx.cpp')
+  

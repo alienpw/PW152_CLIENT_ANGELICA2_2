@@ -1,0 +1,273 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  Triangle.cpp
+  Mesh.cpp
+  GLUTess.cpp
+  GLUPolygon.cpp
+  GLUContour.cpp
+  FWView.cpp
+  FWTextMesh.cpp
+  FWTemplate.cpp
+  FWStream.cpp
+  FWStateSelect.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWStateSelect.cpp(181,13): warning C4146: operador menos unário aplicado a tipo unsigned, resultado permanece unsigned
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWStateSelect.cpp(187,13): warning C4146: operador menos unário aplicado a tipo unsigned, resultado permanece unsigned
+  FWStateRotate.cpp
+  FWStateResize.cpp
+  FWStateNetSelect.cpp
+  FWStateMoveWindow.cpp
+  FWStateMoveHandle.cpp
+  FWStateMove.cpp
+  FWStateCreateText.cpp
+  FWStateCreateRect.cpp
+  FWStateCreatePolygon.cpp
+  FWStateCreateFirework.cpp
+  Gerando Código...
+  Compilando...
+  FWStateCreateBezier.cpp
+  FWState.cpp
+  FWSharedFile.cpp
+  FWRuntimeClass.cpp
+  FWPlayer.cpp
+  FWParticalQuotaList.cpp
+  FWParticalQuota.cpp
+  FWParam.cpp
+  FWOutterProperty.cpp
+  FWOperator.cpp
+  FWOperand.cpp
+  FWObject.cpp
+  FWModifierRing.cpp
+  FWModifierParabola.cpp
+  FWModifierCreator.cpp
+  FWModifier.cpp
+  FWManager.cpp
+  FWLog.cpp
+  FWInnerProperty.cpp
+  FWGlyphText.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,31): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,31): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,31): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,31): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,31): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,21): warning C4244: 'argumento': conversão de 'T' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,21): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,21): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,21): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(345,21): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(347,4): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(358,39): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphText.cpp(359,39): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Gerando Código...
+  Compilando...
+  FWGlyphRectBase.cpp
+  FWGlyphRectangle.cpp
+  FWGlyphPolygon.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838: a conversão de 'T' em 'FLOAT' requer uma conversão de restrição
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244: 'inicializando': conversão de 'T' para 'FLOAT', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838: a conversão de 'T' em 'FLOAT' requer uma conversão de restrição
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244: 'inicializando': conversão de 'T' para 'FLOAT', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244:         ]
+  FWGlyphList.cpp
+  FWGlyphGraphBase.cpp
+  FWGlyphFirework.cpp
+  FWGlyphEllipse.cpp
+  FWGlyphComposite.cpp
+  FWGlyphBezier.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,31): warning C4838: a conversão de 'T' em 'FLOAT' requer uma conversão de restrição
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,31): warning C4838:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,31): warning C4838:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,31): warning C4838:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,31): warning C4838:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,44): warning C4838: a conversão de 'T' em 'FLOAT' requer uma conversão de restrição
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,44): warning C4838:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,44): warning C4838:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,44): warning C4838:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWGlyphBezier.cpp(336,44): warning C4838:         ]
+  FWGlyph.cpp
+  FWGfxWithModifier.cpp
+  FWFormulaList.cpp
+  FWFormulaElement.cpp
+  FWFormula.cpp
+  FWFontEnum.cpp
+  FWFlatCollector.cpp
+  FWFireworkSimple.cpp
+  FWFireworkLeaf.cpp
+  FWFireworkLanch.cpp
+  FWFireworkGraph.cpp
+  Gerando Código...
+  Compilando...
+  FWFireworkElement.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWFireworkElement.cpp(62,61): warning C4244: 'argumento': conversão de 'float' para 'DWORD', possível perda de dados
+  FWFireworkCustom.cpp
+  FWFirework.cpp
+  FWDoc.cpp
+  FWDialogTool.cpp
+  FWDialogText.cpp
+  FWDialogSimple.cpp
+  FWDialogScale.cpp
+  FWDialogPropBase.cpp
+  FWDialogPolygonMenu.cpp
+  FWDialogPlay.cpp
+  FWDialogParam.cpp
+  FWDialogMain.cpp
+  FWDialogLanch.cpp
+  FWDialogGraphMenu.cpp
+  FWDialogGraph.cpp
+  FWDialogEdit.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogEdit.cpp(382,59): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogEdit.cpp(418,56): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  FWDialogCustom.cpp
+  FWDialogBoard.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,11): warning C4244: 'inicializando': conversão de 'T' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,11): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,11): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,11): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,11): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,25): warning C4244: 'inicializando': conversão de 'T' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,25): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,25): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,25): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(143,25): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(145,13): warning C4244: '=': conversão de 'T' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(145,13): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(145,13): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(145,13): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(145,13): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,44): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,44): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,44): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,44): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,44): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,68): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,68): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,68): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,68): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(147,68): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(149,13): warning C4244: '=': conversão de 'T' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(149,13): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(149,13): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(149,13): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(149,13): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,44): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,44): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,44): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,44): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,44): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,68): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,68): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,68): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,68): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(151,68): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(153,13): warning C4244: '=': conversão de 'T' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(153,13): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(153,13): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(153,13): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(153,13): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,33): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,33): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,33): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,33): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,33): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,55): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,55): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,55): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,55): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(155,55): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(157,13): warning C4244: '=': conversão de 'T' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(157,13): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(157,13): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(157,13): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(157,13): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,33): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,33): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,33): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,33): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,33): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,55): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,55): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,55): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,55): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWDialogBoard.cpp(159,55): warning C4244:         ]
+  FWDialogBezierMenu.cpp
+  Gerando Código...
+  Compilando...
+  FWDialogBase.cpp
+  FWCommandUnCombine.cpp
+  FWCommandSetGlyphProp.cpp
+  FWCommandSetBezierMode.cpp
+  FWCommandRotate.cpp
+  FWCommandResize.cpp
+  FWCommandRemoveHandle.cpp
+  FWCommandMoveHandle.cpp
+  FWCommandMove.cpp
+  FWCommandList.cpp
+  FWCommandDuplicateHandle.cpp
+  FWCommandDelete.cpp
+  FWCommandCreate.cpp
+  FWCommandCombine.cpp
+  FWCommand.cpp
+  FWAUIManager.cpp
+  FWAssemblySet.cpp
+  FWAssemblyProfile.cpp
+  FWAssemblyCache.cpp
+  FWArtWave.cpp
+  Gerando Código...
+  Compilando...
+  FWArtTilt.cpp
+  FWArtStepScale.cpp
+  FWArtNoChange.cpp
+  FWArtDoubleArc.cpp
+  FWArtCreator.cpp
+  FWArtArc.cpp
+  FWArt.cpp
+  FWArchive.cpp
+  FWAlgorithm.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(270,38): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(272,38): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(274,38): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(276,38): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,34): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,34): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,34): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,34): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,34): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,28): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,28): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,28): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,28): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,28): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,22): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,22): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,22): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,22): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,22): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,16): warning C4244: 'argumento': conversão de 'float' para 'const T', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,16): warning C4244:         with
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,16): warning C4244:         [
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,16): warning C4244:             T=int
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(280,16): warning C4244:         ]
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\FWAlgorithm.cpp(307,28): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  CodeTemplate.cpp
+  CharVerticesBuffer.cpp
+  CharOutline.cpp
+  CharCurve.cpp
+  CharContour.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\Debug\FWEditorLib.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\Debug\FWEditorLib_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(FWEditorLib) não corresponde ao valor de propriedade OutputFile de Library (FWEditorLib_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  FWEditorLib.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\FWEditorLib\Debug\FWEditorLib.lib
+  1 arquivo(s) copiado(s)

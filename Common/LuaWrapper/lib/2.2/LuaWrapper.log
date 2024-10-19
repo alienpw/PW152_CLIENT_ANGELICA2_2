@@ -1,0 +1,42 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  ScriptValue.cpp
+  LuaUtil.cpp
+  LuaState.cpp
+  LuaScript.cpp
+  LuaMemTbl.cpp
+  LuaDebugMsg.cpp
+  LuaDebugIPC.cpp
+  LuaDebugHelper.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(51,3): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(52,3): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(63,4): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(64,4): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(83,2): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(84,2): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(87,2): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(133,2): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(239,6): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(240,6): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(241,6): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(242,6): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(275,5): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(276,5): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(277,5): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(278,5): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(368,4): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(369,4): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(370,4): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(417,3): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(422,3): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(424,3): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(458,5): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(466,6): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\LuaDebugHelper.cpp(476,4): warning C4477: '_snprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'AString'
+  LuaDebug.cpp
+  LuaAPI.cpp
+  LD_NameValue.cpp
+  Debugger.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\Debug\LuaWrapper.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\Debug\LuaWrapper_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(LuaWrapper) não corresponde ao valor de propriedade OutputFile de Library (LuaWrapper_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  LuaWrapper.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\LuaWrapper\Debug\LuaWrapper.lib

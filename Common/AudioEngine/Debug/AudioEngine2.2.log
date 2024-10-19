@@ -1,0 +1,745 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  FSoundPlayList.cpp
+  FSoundInstanceTemplate.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FSoundInstanceTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FSoundInstanceTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundInstanceTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundInstanceTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundInstanceTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundInstanceTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FSoundInstance.cpp
+  FSoundDefManager.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FSoundDefManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FSoundDefManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDefManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDefManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDefManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDefManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FSoundDefArchive.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FSoundDefArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FSoundDefArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDefArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDefArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDefArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDefArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FSoundDef.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FSoundDef.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FSoundDef.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDef.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDef.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDef.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FSoundDef.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FReverbDataManager.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FReverbDataManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FReverbDataManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FReverbDataManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FReverbDataManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FReverbDataManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FReverbDataManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FReverb.cpp
+  FPropCurves.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FPropCurves.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FPropCurves.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FPropCurves.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FPropCurves.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FPropCurves.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FPropCurves.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'FPropCurves.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'FPropCurves.cpp')
+  
+  FLogManager.cpp
+  FLog.cpp
+  FIntervalManager.cpp
+  FGuid.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FGuid.cpp(21,15):
+  considere usar '%hhx' na cadeia de formato
+  
+  FEventSystem.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventSystem.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventSystem.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventSystem.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventSystem.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventSystem.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventSystem.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FEventProject.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventProject.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventProject.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventProject.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventProject.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventProject.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventProject.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FEventParameter.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventParameter.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventParameter.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventParameter.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventParameter.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventParameter.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventParameter.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'FEventParameter.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'FEventParameter.cpp')
+  
+  Gerando Código...
+  Compilando...
+  FEventManager.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FEventLayerInstance.cpp
+  FEventLayer.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventLayer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventLayer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventLayer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventLayer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventLayer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventLayer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FEventLayer.cpp(363,26):
+  considere usar '%hhx' na cadeia de formato
+  
+  FEventInstance.cpp
+  FEventGroup.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEventGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEventGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FEvent.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEvent.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEvent.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEvent.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEvent.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEvent.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEvent.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FEffectFactory.cpp
+  FEffect.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEffect.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FEffect.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEffect.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEffect.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEffect.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FEffect.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FCurve.cpp
+  FCriticalSectionWrapper.cpp
+  FAudioTemplate.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioTemplate.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FAudioManager.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioManager.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FAudioInstanceManager.cpp
+  FAudioInstance.cpp
+  FAudioGroup.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioGroup.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\acsdk\include\AWString.h(259,2): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'FAudioGroup.cpp')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Angelica2_2\Output\afsdk\include\AFilePackage.h(63,61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'FAudioGroup.cpp')
+  
+  FAudioEngine.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\FAudioEngine.cpp(64,12): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  FAudioContainer.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioContainer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioContainer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioContainer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioContainer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioContainer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioContainer.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FAudioBankArchive.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioBankArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioBankArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioBankArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioBankArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioBankArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioBankArchive.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FAudioBank.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioBank.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudioBank.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioBank.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioBank.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioBank.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudioBank.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  FAudio.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 2 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudio.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%04x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 3 tem o tipo 'unsigned short *'
+  (compilando o arquivo fonte 'FAudio.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 4 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudio.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 5 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudio.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 6 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudio.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: 'sscanf_s': a cadeia de formato '%02x' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 7 tem o tipo 'unsigned char *'
+  (compilando o arquivo fonte 'FAudio.cpp')
+  E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\xml\xmlcommon.h(81,25):
+  considere usar '%hhx' na cadeia de formato
+  
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\Debug\AudioEngine2.2.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\Debug\AudioEngine2.2_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(AudioEngine2.2) não corresponde ao valor de propriedade OutputFile de Library (AudioEngine2.2_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  AudioEngine2.2.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Common\AudioEngine\Debug\AudioEngine2.2.lib
+  1 arquivo(s) copiado(s)
