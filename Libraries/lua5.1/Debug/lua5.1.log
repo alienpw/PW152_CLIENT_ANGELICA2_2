@@ -1,0 +1,36 @@
+﻿  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  loslib.c
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  luac.c
+  lundump.c
+  lvm.c
+  lzio.c
+  print.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\lua5.1\Debug\lua5.1.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Output\Lib\lua5.1_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(lua5.1) não corresponde ao valor de propriedade OutputFile de Library (lua5.1_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+lua.obj : warning LNK4006: _main já definido no luac.obj; segunda definição ignorada
+  lua5.1.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\lua5.1\Debug\lua5.1.lib

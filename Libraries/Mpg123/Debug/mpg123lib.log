@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2153,5): warning : The referenced project '..\..\AngelicaFile\AngelicaFile.vcxproj' does not exist.
+cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  tabinit.cpp
+  readers.cpp
+  mpg123.cpp
+  layer3.cpp
+  layer2.cpp
+  layer1.cpp
+  getbits.cpp
+  equalizer.cpp
+  decode_ntom.cpp
+  decode_i386.cpp
+  decode_4to1.cpp
+  decode_2to1.cpp
+  dct64_i386.cpp
+  common.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Mpg123\Debug\mpg123lib.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Output\Lib\mpg123lib_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(mpg123lib) não corresponde ao valor de propriedade OutputFile de Library (mpg123lib_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  mpg123lib.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Mpg123\Debug\mpg123lib.lib
+  0 arquivo(s) copiado(s)

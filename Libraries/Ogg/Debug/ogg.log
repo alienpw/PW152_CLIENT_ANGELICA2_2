@@ -1,0 +1,5 @@
+﻿  bitwise.c
+  framing.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Ogg\Debug\ogg.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Output\Lib\ogg_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(ogg) não corresponde ao valor de propriedade OutputFile de Library (ogg_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  ogg.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Ogg\Debug\ogg.lib

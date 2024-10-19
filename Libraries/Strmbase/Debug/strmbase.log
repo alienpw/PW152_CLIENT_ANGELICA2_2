@@ -1,0 +1,34 @@
+﻿  amextra.cpp
+  amfilter.cpp
+  amvideo.cpp
+  arithutil.cpp
+  combase.cpp
+  cprop.cpp
+  ctlutil.cpp
+  ddmm.cpp
+  dllentry.cpp
+  dllsetup.cpp
+  mtype.cpp
+  outputq.cpp
+  perflog.cpp
+  pstream.cpp
+  pullpin.cpp
+  refclock.cpp
+  renbase.cpp
+  schedule.cpp
+  seekpt.cpp
+  source.cpp
+  strmctl.cpp
+  sysclock.cpp
+  transfrm.cpp
+  transip.cpp
+  videoctl.cpp
+  vtrans.cpp
+  winctrl.cpp
+  winutil.cpp
+  wxdebug.cpp
+  wxlist.cpp
+  wxutil.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Strmbase\Debug\strmbase.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Output\Lib\strmbase_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(strmbase) não corresponde ao valor de propriedade OutputFile de Library (strmbase_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  strmbase.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Strmbase\Debug\strmbase.lib

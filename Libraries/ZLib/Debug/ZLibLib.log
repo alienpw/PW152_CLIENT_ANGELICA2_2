@@ -1,0 +1,20 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  zutil.c
+  uncompr.c
+  trees.c
+  infutil.c
+  inftrees.c
+  inflate.c
+  inffast.c
+  infcodes.c
+  infblock.c
+  gzio.c
+  deflate.c
+  crc32.c
+  compress.c
+  adler32.c
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\ZLib\Debug\ZLibLib.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Output\Lib\ZLibLib_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(ZLibLib) não corresponde ao valor de propriedade OutputFile de Library (ZLibLib_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  ZLibLib.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\ZLib\Debug\ZLibLib.lib
+  0 arquivo(s) copiado(s)

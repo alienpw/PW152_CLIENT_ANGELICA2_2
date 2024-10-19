@@ -1,0 +1,40 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  tif_zip.c
+  tif_write.c
+  tif_warning.c
+  tif_version.c
+  tif_tile.c
+  tif_thunder.c
+  tif_swab.c
+  tif_strip.c
+  tif_read.c
+  tif_print.c
+  tif_predict.c
+  tif_pixarlog.c
+  tif_packbits.c
+  tif_open.c
+  tif_ojpeg.c
+  tif_next.c
+  tif_lzw.c
+  tif_luv.c
+  tif_jpeg.c
+  tif_getimage.c
+  Gerando Código...
+  Compilando...
+  tif_flush.c
+  tif_fax3.c
+  tif_error.c
+  tif_dumpmode.c
+  tif_dirwrite.c
+  tif_dirread.c
+  tif_dirinfo.c
+  tif_dir.c
+  tif_compress.c
+  tif_codec.c
+  tif_close.c
+  tif_aux.c
+  fax3sm_winnt.c
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Tiff\Debug\tiff.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Output\Lib\tiff_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(tiff) não corresponde ao valor de propriedade OutputFile de Library (tiff_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  Tiff.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Tiff\Debug\tiff.lib

@@ -1,0 +1,165 @@
+﻿  analysis.c
+  bitrate.c
+  block.c
+  codebook.c
+  envelope.c
+  floor0.c
+  floor1.c
+  info.c
+  lookup.c
+  lpc.c
+  lsp.c
+  mapping0.c
+  mdct.c
+  psy.c
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\bitrate.c(42,22): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\bitrate.c(43,22): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\bitrate.c(44,22): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\bitrate.c(51,43): warning C4244: 'inicializando': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\bitrate.c(135,12): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\bitrate.c(83,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\bitrate.c(88,39): warning C4244: 'inicializando': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\analysis.c(82,10): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\block.c(845,51): warning C4244: '-=': conversão de 'ogg_int64_t' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\block.c(848,52): warning C4244: '+=': conversão de 'ogg_int64_t' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\block.c(861,26): warning C4244: 'inicializando': conversão de 'ogg_int64_t' para 'long', possível perda de dados
+  registry.c
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\info.c(54,12): warning C4244: '=': conversão de 'long' para 'char', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\envelope.c(48,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\envelope.c(65,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\envelope.c(68,24): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\envelope.c(146,26): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\envelope.c(128,46): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  res0.c
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\lpc.c(114,10): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\lookup.c(31,23): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'lsp.c')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\lookup.c(38,25): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'lsp.c')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\floor1.c(288,23): warning C4244: 'inicializando': conversão de 'const float' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mdct.c(58,27): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\floor1.c(459,37): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\floor0.c(124,25): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mdct.c(66,12): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\floor0.c(134,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mdct.c(67,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\floor1.c(513,9): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mdct.c(68,15): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\floor1.c(514,9): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mdct.c(69,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mdct.c(72,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mdct.c(73,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  sharedbook.c
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(137,68): warning C4244: 'função': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(139,43): warning C4244: 'função': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(173,9): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(174,16): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(175,16): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(254,20): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(259,20): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(192,42): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(193,48): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(217,42): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(218,48): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(239,32): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(274,61): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(276,54): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(277,53): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(290,39): warning C4305: '=': truncamento de 'double' para 'float'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(291,41): warning C4305: '=': truncamento de 'double' para 'float'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(301,23): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(321,62): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(323,54): warning C4244: 'função': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(343,41): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(296,16): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(308,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(332,42): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(398,46): warning C4244: '=': conversão de 'const float' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(400,14): warning C4244: '=': conversão de 'const float' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\lsp.c(101,7): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  smallft.c
+  synthesis.c
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\lsp.c(351,12): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\lsp.c(398,34): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\lsp.c(450,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  vorbisfile.c
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\lsp.c(453,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  window.c
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mapping0.c(277,27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mapping0.c(317,35): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mapping0.c(334,55): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\mapping0.c(390,27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(567,13): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(821,22): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(883,21): warning C4305: '=': truncamento de 'double' para 'float'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(889,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(896,24): warning C4305: '=': truncamento de 'double' para 'float'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(900,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(940,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(945,31): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(977,20): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(978,20): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(979,12): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(981,18): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(982,18): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(983,10): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(987,20): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(988,20): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(989,12): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(991,18): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(992,18): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(993,10): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1022,12): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1023,12): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1082,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1095,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1113,12): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1165,46): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1154,40): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1155,41): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1225,21): warning C4244: '*=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\psy.c(1218,25): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\res0.c(266,18): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\res0.c(401,35): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\res0.c(402,7): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\res0.c(384,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\res0.c(464,39): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\res0.c(466,34): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\sharedbook.c(55,8): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\sharedbook.c(56,8): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\sharedbook.c(67,9): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\sharedbook.c(151,13): warning C4244: 'inicializando': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\sharedbook.c(210,32): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\sharedbook.c(230,32): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\sharedbook.c(209,28): warning C4244: 'inicializando': conversão de 'long' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\sharedbook.c(229,28): warning C4244: 'inicializando': conversão de 'long' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\sharedbook.c(380,50): warning C4244: '=': conversão de 'long' para 'char', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\smallft.c(99,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\smallft.c(100,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\smallft.c(283,7): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\smallft.c(284,7): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\smallft.c(853,7): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\smallft.c(854,7): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.h(53,18): warning C4244: 'função': conversão de 'ogg_int64_t' para 'long', possível perda de dados
+  (compilando o arquivo fonte 'vorbisfile.c')
+  
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(216,23): warning C4244: 'return': conversão de 'ogg_int64_t' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(259,19): warning C4244: 'return': conversão de 'ogg_int64_t' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(276,19): warning C4244: 'return': conversão de 'ogg_int64_t' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(278,19): warning C4244: 'return': conversão de 'ogg_int64_t' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(287,21): warning C4244: 'return': conversão de 'ogg_int64_t' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(569,19): warning C4244: 'return': conversão de 'ogg_int64_t' para 'int', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(800,18): warning C4244: 'função': conversão de 'ogg_int64_t' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(1017,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(1018,11): warning C4244: 'return': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(1022,13): warning C4244: 'return': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(1050,51): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(1553,31): warning C4244: '=': conversão de 'ogg_int64_t' para 'long', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(1589,33): warning C4244: 'inicializando': conversão de 'double' para 'ogg_int64_t', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(1619,33): warning C4244: 'inicializando': conversão de 'double' para 'ogg_int64_t', possível perda de dados
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\vorbisfile.c(1939,18): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\Debug\vorbis.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Output\Lib\vorbis_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(vorbis) não corresponde ao valor de propriedade OutputFile de Library (vorbis_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  vorbis.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\Vorbis\Debug\vorbis.lib

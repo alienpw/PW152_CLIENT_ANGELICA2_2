@@ -1,0 +1,42 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2153,5): warning : The referenced project '..\zlib\zlib.vcxproj' does not exist.
+cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  xmemfile.cpp
+  ximawnd.cpp
+  ximawmf.cpp
+  ximawbmp.cpp
+  ximatran.cpp
+  ximatif.cpp
+  ximath.cpp
+  ximatga.cpp
+  ximaska.cpp
+  ximasel.cpp
+  ximaraw.cpp
+  ximapng.cpp
+  ximapcx.cpp
+  ximapal.cpp
+  ximamng.cpp
+  ximalyr.cpp
+  ximalpha.cpp
+  ximajpg.cpp
+  ximajbg.cpp
+  ximajas.cpp
+  Gerando Código...
+  Compilando...
+  ximaint.cpp
+  ximainfo.cpp
+  ximaico.cpp
+  ximahist.cpp
+  ximagif.cpp
+  xImage.cpp
+  ximaexif.cpp
+  ximaenc.cpp
+  ximadsp.cpp
+E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\CXimage\ximadsp.cpp(2976,1): warning C4819: O arquivo contém um caractere que não pode ser representado na página de código atual (936). Salve o arquivo em formato Unicode para evitar perda de dados
+  ximabmp.cpp
+  tif_xfile.cpp
+  Gerando Código...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\CXimage\Debug\CxImage.lib) não corresponde ao valor de propriedade OutputFile de Library (E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Output\Lib\CxImage_d.lib). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetName(CxImage) não corresponde ao valor de propriedade OutputFile de Library (CxImage_d). Isso pode fazer com que o projeto seja compilado incorretamente. Para corrigir isso, verifique se os valores de propriedade $(OutDir), $(TargetName) e $(TargetExt) correspondem ao valor especificado em %(Lib.OutputFile).
+  cximage.vcxproj -> E:\COMPILACOES-PW-2024\CLIENTE\Element2_2\Libraries\CXimage\Debug\CxImage.lib
+  Erro de Análise
+  0 arquivo(s) copiado(s)
