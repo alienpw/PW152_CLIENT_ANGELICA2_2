@@ -8,3 +8,4 @@ Compilar em "Debug [Win32]"
 3- Compilar tudo da pasta Common
 4- Compilar ElementSkill
 5- Compilar ElementClient
+
